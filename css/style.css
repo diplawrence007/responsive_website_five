@@ -1,0 +1,200 @@
+.container{max-width:1120px}
+body{
+font-family: 'PT Sans', sans-serif;
+}
+
+.navbar-custom .navbar-toggle {
+border-color: #fed136;
+text-transform: uppercase;
+color: white;
+font-size: 12px;
+margin-top: 23px;
+margin-bottom: 22px;
+background: #f06000;
+}
+
+.navbar-custom .nav li a {
+letter-spacing: 1px;
+font-size: 20px;
+font-weight: 500;
+color: black;
+padding: 20px 19px 0px -1px;
+font-weight:700
+}
+
+.navbar-custom .nav li{
+padding-right: 3px;
+padding-top: 0px;
+	
+}
+.navbar-default {
+	border: none;
+}
+.navbar-custom .nav li span{
+padding-left:5px
+}
+.navbar-brand {
+	float: left;
+	height: 50px;
+	padding: 0px 15px;
+	font-size: 18px;
+	line-height: 20px;
+}
+@media (min-width: 768px) {
+  .navbar-custom {
+    background-color: white;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
+    transition: padding 0.3s;
+    border: none;
+	padding: 0px 0px 61px -1px;
+	
+	
+  }
+  .navbar-custom .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+	padding-top: 0px;
+  }
+  
+  .navbar-custom .navbar-nav > .active > a {
+    border-radius: 3px;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-custom.affix {
+    background-color: #a08d11;
+padding: 9px 0px 21px 0px;
+  }
+  .navbar-custom.affix .navbar-brand  img{
+    font-size: 1.5em;width:60%
+  }
+  .navbar-custom.affix .navbar-right {
+	margin-right: -15px;
+	padding-top: 2px;
+}
+}
+
+.navbar-right {
+	margin-right: -15px;
+	padding-top: 10px;
+}
+.navbar-brand > img {
+	display: block;
+	width: 50%;
+}
+.slider-main{
+	background:url(../img/heroimgcolumns.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding: 376px 0px 155px 0px;
+	
+}
+.midstate-main{
+	background:#003268;
+	color:white;
+	padding:20px 0px 80px 0px
+}
+.VIEW-PRODUCTS{
+	margin-top: -40px;
+}
+.midstate-button h2{
+	display: inline-block;
+padding: 7px 32px;
+background: #b22d00;
+font-size: 25px;
+color: white;
+}
+.midstate-main h2{
+	font-size: 29px;
+line-height: 50px;
+}
+.slider-item h1{
+	font-size: 60px;
+color: white;
+}
+.slider-item h3{
+	color:white
+}
+.carousel-control.left {
+	background-image: none;
+	background-repeat: repeat-x;
+	margin-top: 65px;
+}
+.carousel-control.right {
+	background-image: none;
+	background-repeat: repeat-x;
+	margin-top: 65px;
+}
+.medical img{
+	width:99%
+}
+.medical-main{
+	max-width:1200px;
+	margin:0 auto;
+	margin-top: 62px;
+}
+.blog-main{
+	max-width:1190px;
+	margin:0 auto
+}
+.blog-two-container{
+	max-width:1220px;
+	margin:0 auto;
+	
+}
+.blog-two-main{
+	background:#dddddd;
+	padding:73px 0px 90px 0px;
+	color:#00306a
+}
+.blog-two-main h3{
+	padding-bottom:40px
+}
+.footer-row{
+	max-width:450px
+	
+}
+footer{
+	background:#555555;
+	color:white;
+	padding:80px 0px
+}
+footer p{
+	font-size:22px;
+	color:white;
+	line-height:26px;padding-bottom: 22px;
+}
+.Headquartered{
+	padding-left: 85px;
+padding-top: 19px;
+}
+.CONTACT h3{
+	font-size: 26px;
+padding-bottom: 18px;
+}
+.Headquartered h3{
+	font-size: 26px;
+
+}
+.blog-main{
+	padding:35px 0px 40px 0px;
+	color:#00306a
+}
+.blog-main h3{
+	padding-bottom:35px
+}
+.footer-img img{
+	padding-top:11px
+}
+
+
+
+
+
+
+
+
+

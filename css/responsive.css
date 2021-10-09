@@ -1,0 +1,200 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+.navbar-custom .nav li a {
+	letter-spacing: 1px;
+	font-size: 17px;
+	font-weight: 500;
+	color: black;
+	padding: 21px 9px 0px 3px;
+}
+.navbar-custom {
+	background-color: white;
+	-webkit-transition: padding 0.3s;
+	-moz-transition: padding 0.3s;
+	transition: padding 0.3s;
+	border: none;
+	padding: 11px 0px 45px 0px;
+}
+.slider-main {
+	background: url(../img/heroimgcolumns.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 264px 0px 155px 0px;
+}
+.medical-main {
+	max-width: 720px;
+	margin: 0 auto;
+}
+.blog-main {
+	max-width: 720px;
+	margin: 0 auto;
+	text-align:center
+}
+.blog img{
+	width:60%
+}
+.blog-two-container {
+	max-width: 720px;
+	margin: 0 auto;
+}
+.blog-two img{
+	width:70%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.navbar-default {
+	background-color: #a08d11;
+	border: none;
+}
+.slider-item h1 {
+	font-size: 37px;
+	color: white;
+}
+.slider-main {
+	background: url(../img/heroimgcolumns.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 166px 0px 96px 0px;
+}
+.medical-main {
+	max-width: 320px;
+	margin: 0 auto;
+}
+.blog-main {
+	max-width: 320px;
+	margin: 0 auto;
+	text-align:center
+}
+.blog img{
+	width:100%;
+	padding-bottom:10px
+}
+.blog-two img{
+	width:50%;
+	padding-bottom:10px
+}
+.Headquartered {
+	padding-left: 0px;
+	padding-top: 19px;
+}
+footer {
+	background: #555555;
+	color: white;
+	padding: 26px 0px;
+}
+.blog-two-container {
+	max-width: 320px;
+	margin: 0 auto;
+}
+.navbar-brand > img {
+	display: block;
+	width: 66%;
+	padding-top: 8px;
+}
+.blog-two-main {
+	background: #dddddd;
+	padding: 36px 0px 42px 0px;
+	color: #00306a;
+}
+footer p {
+	font-size: 15px;
+	color: white;
+	line-height: 19px;
+	padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+.navbar-default {
+	background-color: #a08d11;
+	border: none;
+}
+.medical-main {
+	max-width: 430px;
+	margin: 0 auto;
+}
+.blog-main {
+	max-width: 430px;
+	margin: 0 auto;
+	text-align:center
+}
+.blog img{
+	width:100%
+}
+.Headquartered {
+	padding-left: 0px;
+	padding-top: 19px;
+}
+footer {
+	background: #555555;
+	color: white;
+	padding: 26px 0px;
+}
+.blog-two-container {
+	max-width: 430px;
+	margin: 0 auto;
+}
+.navbar-brand > img {
+	display: block;
+	width: 66%;
+	padding-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
